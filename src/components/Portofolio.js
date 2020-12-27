@@ -8,7 +8,7 @@ export default class Portofolio extends Component{
     render(){
         return (
            <section>
-               <NavBar></NavBar>
+               {/*<NavBar></NavBar>*/}
                <div className="container">
                    <div className="row">
                        <div className="col s12">

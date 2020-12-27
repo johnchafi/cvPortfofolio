@@ -19,7 +19,7 @@ export default class Navbar extends Component {
             <div className='container'>
               <div className='nav-wrapper'>
                 <Link to='/' className='brand-logo'>
-                  My CV
+                  JEAN DE DIEU
                 </Link>
                 <Link to='/' data-target='side-nav' className='sidenav-trigger'>
                   <i className='material-icons'>menu</i>
@@ -46,7 +46,7 @@ export default class Navbar extends Component {
                     </Link>
                   </li>
                   <li>
-                    <Link2 to='portfolio'>
+                    <Link2 to='portofolio' target="_blank">
                       <i class='fas fa-address-card'></i> Portfolios
                     </Link2>
                   </li>
@@ -61,7 +61,7 @@ export default class Navbar extends Component {
               </Link>
             </li>
             <li>
-              <Link to='kills'>
+              <Link to='skills'>
                 <i class='fas fa-copy'></i> Skills
               </Link>
             </li>
@@ -76,7 +76,7 @@ export default class Navbar extends Component {
               </Link>
             </li>
             <li>
-              <Link2 to='portfolio'>
+              <Link2 to='portofolio' target="_blank">
                 <i class='fas fa-address-card'></i> Portfolios
               </Link2>
             </li>

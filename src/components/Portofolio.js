@@ -16,9 +16,9 @@ export default class Portofolio extends Component{
                            <div className="card light-blue darken-4">
                                <div className="card-content white-text">
                                    <span className="card-title center">PORTOFOLIOS</span>
-                                   <p>Those are the exemples of front-end projects. Throughout my school career i have
-                                       worked on a lot of projects wich don't have user interfaces.
-                                       Many more projects still undergoing.
+                                   <p>These are the examples of front-end projects. Throughout my school career, i have
+                                       worked on a lot of projects which didn't have user interface.
+                                       Many more projects are still undergoing.
                                        For more info check my CV or Github.
                                    </p>
                                </div>

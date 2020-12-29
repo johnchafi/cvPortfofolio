@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Education extends Component {
   render() {
     return (
-      <div>
+      <div id="education">
         <div class="card">
           <div class="card-content">
             <h6 class="center">
@@ -49,7 +49,7 @@ export default class Education extends Component {
                 <tr>
                   <td>Byimana school of science</td>
                   <td>July 2012</td>
-                  <td>Math physics and computer</td>
+                  <td>Math physics and chemistry</td>
                 </tr>
                 <tr>
                   <td>Regis University</td>

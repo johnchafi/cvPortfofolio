@@ -3,13 +3,12 @@ import React, { Component } from "react";
 export default class Experience extends Component{
   render() {
     return (
-      <div>
+      <div id="experience">
         <div className="card">
           <div className="card-content">
             <h6 class="center">
               <strong>EXPERIENCE</strong>
             </h6>
-
             <div className="row mt-top">
               <div className="col xl4 l4 m6 s12">
                 <p className="teal year_exp white-text">
@@ -27,8 +26,8 @@ export default class Experience extends Component{
                   </h6>
                   <p>
                     Bug fix,
-                    analyze customers requests,
-                    interactions with Data base ,
+                    analyzing customers requests,
+                    implementing sql query,
                     developping new functionnalities and implementing
                     new modules.
                     <br></br>
@@ -52,7 +51,7 @@ export default class Experience extends Component{
                   </h6>
                   <p>
                     Bug fix,
-                    Developing new modules,
+                    developping new modules,
                     Technical support in creating CMS with typo3
                   </p>
                 </blockquote>
@@ -76,8 +75,8 @@ export default class Experience extends Component{
                     <strong>Desktop helper</strong>
                   </h6>
                   <p>
-                    I took part in teaching microsoft tools and
-                    providing technical support to student .
+                    I took part in teaching microsoft office tools and
+                    providing technical support to the students.
 
                   </p>
                 </blockquote>

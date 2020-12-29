@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import { Button } from "react-bootstrap";
+import {downloadCv} from "../helper";
+import "materialize-css/dist/css/materialize.min.css";
 
 const url =
   "https://drive.google.com/file/d/1FXjXBjf1HmQ9leApqDEyzKNURPp-7GYT/view?usp=sharing";
@@ -7,16 +9,16 @@ const url =
 export default class About extends Component {
   render() {
     return (
-      <div>
+      <div id="home" >
         <div className="card">
           <div className="card-content">
             <h6 className="mt-bottom center">
               <strong>ABOUT ME</strong>
             </h6>
             <p className="gray-text">
-              Undergraduate in computer science with interest in web application development
-              and mobile application Development. Excellent reputation for problem solving,excellent
-              collaboration with teammate and very effective in terms of analysis and autonomy. Proficient
+              Undergraduate in computer science with interest in web and mobile application Development.
+              Excellent reputation for problem solving,excellent
+              collaboration with teammates and very effective in terms of analysis and autonomy. Proficient
               in Java,c#,C++,JavaScript and Agile/Scrum methodology.
             </p>
           </div>
@@ -35,7 +37,7 @@ export default class About extends Component {
                   <strong>Email:</strong> johnchafi@gmail.com
                 </p>
                 <p>
-                  <strong>Phone:</strong> +5815782309
+                  <strong>Phone:</strong> +15815782309
                 </p>
               </div>
               <div className="col xl6 l6 m6 s12">
@@ -63,18 +65,19 @@ export default class About extends Component {
                   </pre>
                 </p>
               </div>
-              <div>
-                <a
-                  href={url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  download
-                >
-                  {/*                   <Button>
+              <div className="center">
+                {/*<a*/}
+                {/*  href={url}*/}
+                {/*  target="_blank"*/}
+                {/*  rel="noopener noreferrer"*/}
+                {/*  download*/}
+                {/*>*/}
+                  <Button className="btn-floating blue pulse" onClick={(e)=>downloadCv(e)}>
                     <i className="fas fa-download" />
-                    Download my CV
-                  </Button> */}
-                </a>
+                  </Button>
+                  <p className="blue-text">Download CV</p>
+                {/*</a>*/}
+                {/*<a className="btn-floating pink"> </a>*/}
               </div>
             </div>
           </div>

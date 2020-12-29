@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "react-scroll";
 import { HashLink as Link2 } from 'react-router-hash-link';
+import AnchorLink from 'react-anchor-link-smooth-scroll';
 import "materialize-css/dist/css/materialize.min.css";
 import M from "materialize-css/dist/js/materialize.min.js";
 
@@ -14,7 +15,7 @@ export default class Navbar extends Component {
   }
   render() {
     return (
-        <>
+        <div className="navbar-fixed">
           <nav className='light-blue darken-4'>
             <div className='container'>
               <div className='nav-wrapper'>
@@ -26,24 +27,24 @@ export default class Navbar extends Component {
                 </Link>
                 <ul className='right hide-on-med-and-down'>
                   <li>
-                    <Link to='/'>
-                      <i class='fas fa-home'></i> Home
-                    </Link>
+                    <AnchorLink href='#home'>
+                      <i class='fas fa-copy'></i> Home
+                    </AnchorLink>
                   </li>
                   <li>
-                    <Link to='skills'>
+                    <AnchorLink href='#skills'>
                       <i class='fas fa-copy'></i> Skills
-                    </Link>
+                    </AnchorLink>
                   </li>
                   <li>
-                    <Link to='experience'>
+                    <AnchorLink href='#experience'>
                       <i class='fas fa-id-badge'></i> Experiences
-                    </Link>
+                    </AnchorLink>
                   </li>
                   <li>
-                    <Link to='education'>
+                    <AnchorLink href='#education'>
                       <i class='fas fa-graduation-cap'></i> Educations
-                    </Link>
+                    </AnchorLink>
                   </li>
                   <li>
                     <Link2 to='portofolio' target="_blank">
@@ -56,24 +57,27 @@ export default class Navbar extends Component {
           </nav>
           <ul className='sidenav' id='side-nav'>
             <li>
-              <Link to='/'>
-                <i class='fas fa-home'></i> Home
-              </Link>
+              <AnchorLink href='#home'>
+                <i className='fas fa-copy'></i> Home
+              </AnchorLink>
             </li>
             <li>
-              <Link to='skills'>
+              <AnchorLink href='#skills'>
                 <i class='fas fa-copy'></i> Skills
-              </Link>
+              </AnchorLink>
             </li>
             <li>
-              <Link to='experience'>
+              <AnchorLink href='#experience'>
                 <i class='fas fa-id-badge'></i> Experiences
-              </Link>
+              </AnchorLink>
             </li>
             <li>
-              <Link to='education'>
+              {/*<Link to='education'>*/}
+              {/*  <i class='fas fa-graduation-cap'></i> Educations*/}
+              {/*</Link>*/}
+              <AnchorLink href='#education'>
                 <i class='fas fa-graduation-cap'></i> Educations
-              </Link>
+              </AnchorLink>
             </li>
             <li>
               <Link2 to='portofolio' target="_blank">
@@ -81,7 +85,7 @@ export default class Navbar extends Component {
               </Link2>
             </li>
           </ul>
-        </>
+        </div>
     );
   }
 }

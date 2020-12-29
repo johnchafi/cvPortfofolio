@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Skills extends Component {
   render() {
     return (
-      <div>
+      <div id="skills">
         <div className="card">
           <div className="card-content">
             <h6 className="center">

@@ -11,10 +11,10 @@ export default class Experience extends Component{
             </h6>
             <div className="row mt-top">
               <div className="col xl4 l4 m6 s12">
-                <p className="teal year_exp white-text">
+                <p className="light-blue darken-4 year_exp white-text">
                   Leonard inc - Intern
                 </p>
-                <p className="teal year_exp white-text">
+                <p className="light-blue darken-4 year_exp white-text">
                   &nbsp;
                   <strong>2020</strong>
                 </p>
@@ -36,9 +36,9 @@ export default class Experience extends Component{
               </div>
 
               <div className="col xl4 l4 m6 s12">
-                <p className="teal year_exp white-text">Faculté des sciences et génie</p>
-                <p className="teal year_exp white-text">Université Laval</p>
-                <p className="teal year_exp white-text">
+                <p className="light-blue darken-4 year_exp white-text">Faculté des sciences et génie</p>
+                <p className="light-blue darken-4 year_exp white-text">Université Laval</p>
+                <p className="light-blue darken-4 year_exp white-text">
                   &nbsp;
                   <strong>2019</strong> -<strong>2020</strong>
                 </p>
@@ -60,10 +60,10 @@ export default class Experience extends Component{
 
             <div className="row mt-top">
               <div className="col xl4 l4 m6 s12">
-                <p className="teal year_exp white-text">
+                <p className="light-blue darken-4 year_exp white-text">
                   JRS
                 </p>
-                <p className="teal year_exp white-text">
+                <p className="light-blue darken-4 year_exp white-text">
                   &nbsp;
                   <strong>2013</strong> - &nbsp;
                   <strong>2016</strong>

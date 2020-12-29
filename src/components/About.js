@@ -3,9 +3,6 @@ import { Button } from "react-bootstrap";
 import {downloadCv} from "../helper";
 import "materialize-css/dist/css/materialize.min.css";
 
-const url =
-  "https://drive.google.com/file/d/1FXjXBjf1HmQ9leApqDEyzKNURPp-7GYT/view?usp=sharing";
-
 export default class About extends Component {
   render() {
     return (
@@ -66,18 +63,10 @@ export default class About extends Component {
                 </p>
               </div>
               <div className="center">
-                {/*<a*/}
-                {/*  href={url}*/}
-                {/*  target="_blank"*/}
-                {/*  rel="noopener noreferrer"*/}
-                {/*  download*/}
-                {/*>*/}
-                  <Button className="btn-floating blue pulse" onClick={(e)=>downloadCv(e)}>
+                  <Button className="btn-floating red lighten-1  pulse" onClick={(e)=>downloadCv(e)}>
                     <i className="fas fa-download" />
                   </Button>
-                  <p className="blue-text">Download CV</p>
-                {/*</a>*/}
-                {/*<a className="btn-floating pink"> </a>*/}
+                  <p className="red-text">Download CV</p>
               </div>
             </div>
           </div>

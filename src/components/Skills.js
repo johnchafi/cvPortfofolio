@@ -14,7 +14,7 @@ export default class Skills extends Component {
                 <p>Java </p>
                 <div className="progress grey lighten-1">
                   <div
-                    className="determinate blue"
+                    className="determinate green"
                     style={{ width: "100%" }}
                   ></div>
                 </div>
@@ -23,7 +23,7 @@ export default class Skills extends Component {
                 <p>C#</p>
                 <div className="progress grey lighten-1">
                   <div
-                    className="determinate blue"
+                    className="determinate green"
                     style={{ width: "100%" }}
                   ></div>
                 </div>
@@ -35,7 +35,7 @@ export default class Skills extends Component {
                 <p>JavaScript</p>
                 <div className="progress grey lighten-1">
                   <div
-                    className="determinate blue"
+                    className="determinate green"
                     style={{ width: "100%" }}
                   ></div>
                 </div>
@@ -44,8 +44,8 @@ export default class Skills extends Component {
                 <p>C++</p>
                 <div className="progress grey lighten-1">
                   <div
-                    className="determinate blue"
-                    style={{ width: "100%" }}
+                    className="determinate green"
+                    style={{ width: "80%" }}
                   ></div>
                 </div>
               </div>
@@ -56,8 +56,8 @@ export default class Skills extends Component {
                 <p>MVC</p>
                 <div className="progress grey lighten-1">
                   <div
-                    className="determinate blue"
-                    style={{ width: "95%" }}
+                    className="determinate green"
+                    style={{ width: "100%" }}
                   ></div>
                 </div>
               </div>
@@ -65,8 +65,8 @@ export default class Skills extends Component {
                 <p>React Js</p>
                 <div className="progress grey lighten-1">
                   <div
-                    className="determinate blue"
-                    style={{ width: "50%" }}
+                    className="determinate green"
+                    style={{ width: "80%" }}
                   ></div>
                 </div>
               </div>
@@ -77,8 +77,8 @@ export default class Skills extends Component {
                 <p>VueJs</p>
                 <div className="progress grey lighten-1">
                   <div
-                    className="determinate blue"
-                    style={{ width: "100%" }}
+                    className="determinate green"
+                    style={{ width: "80%" }}
                   ></div>
                 </div>
               </div>
@@ -86,7 +86,7 @@ export default class Skills extends Component {
                 <p>Python</p>
                 <div className="progress grey lighten-1">
                   <div
-                    className="determinate blue"
+                    className="determinate green"
                     style={{ width: "80%" }}
                   ></div>
                 </div>
@@ -98,7 +98,7 @@ export default class Skills extends Component {
                 <p>MySQL</p>
                 <div className="progress grey lighten-1">
                   <div
-                    className="determinate blue"
+                    className="determinate green"
                     style={{ width: "90%" }}
                   ></div>
                 </div>
@@ -107,7 +107,7 @@ export default class Skills extends Component {
                 <p>Oracle</p>
                 <div className="progress grey lighten-1">
                   <div
-                    className="determinate blue"
+                    className="determinate green"
                     style={{ width: "90%" }}
                   ></div>
                 </div>
@@ -118,7 +118,7 @@ export default class Skills extends Component {
                   <p>Mongo DB</p>
                   <div className="progress grey lighten-1">
                     <div
-                      className="determinate blue"
+                      className="determinate green"
                       style={{ width: "70%" }}
                     ></div>
                   </div>
@@ -139,7 +139,7 @@ export default class Skills extends Component {
                   <p>UML , Object Oriented</p>
                   <div className="progress grey lighten-1">
                     <div
-                      className="determinate blue"
+                      className="determinate green"
                       style={{ width: "100%" }}
                     ></div>
                   </div>
@@ -148,8 +148,8 @@ export default class Skills extends Component {
                   <p>Ocaml</p>
                   <div className="progress grey lighten-1">
                     <div
-                      className="determinate blue"
-                      style={{ width: "80%" }}
+                      className="determinate yellow"
+                      style={{ width: "70%" }}
                     ></div>
                   </div>
                 </div>

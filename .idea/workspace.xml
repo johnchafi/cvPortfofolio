@@ -4,8 +4,14 @@
     <list default="true" id="dd158a22-b130-4a7c-8e17-08f929752c1a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Portofolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Portofolio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.8c72bdd2.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.8c72bdd2.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!johnchafi!cvPortfolio.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!johnchafi!cvPortfolio.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experience.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +74,9 @@
       <workItem from="1609215121939" duration="19000" />
       <workItem from="1609215180914" duration="820000" />
       <workItem from="1609216143090" duration="191000" />
-      <workItem from="1609216441539" duration="411000" />
+      <workItem from="1609216441539" duration="904000" />
+      <workItem from="1609217770207" duration="182000" />
+      <workItem from="1609217996402" duration="3246000" />
     </task>
     <servers />
   </component>

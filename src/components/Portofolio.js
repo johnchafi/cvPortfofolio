@@ -8,7 +8,7 @@ import Search from "./Search";
 export default class Portofolio extends Component{
     render(){
         return (
-           <section>
+           <section id="portofolio">
                <Search></Search>
                <div className="container">
                    <div className="row">

@@ -5,6 +5,7 @@ import NavBar from "./NavBar";
 import Profile from "./Profile";
 import Skills from "./Skills";
 import About from "./About";
+import Footer from "./Footer";
 
 
 export default class Home extends Component {
@@ -31,6 +32,7 @@ export default class Home extends Component {
             </div>
           </div>
         </div>
+       <Footer></Footer>
       </section>
     );
   }

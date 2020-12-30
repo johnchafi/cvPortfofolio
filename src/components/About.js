@@ -66,7 +66,6 @@ export default class About extends Component {
                   <Button className="btn-floating red lighten-1  pulse" onClick={(e)=>downloadCv(e)}>
                     <i className="fas fa-download" />
                   </Button>
-                  <p className="red-text">Download CV</p>
               </div>
             </div>
           </div>

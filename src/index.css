@@ -6,3 +6,7 @@ body {
   height: 400px; /* Your height here */
   overflow: hidden;
 }
+
+.fa-3x {
+  margin: 5px 10px;
+}

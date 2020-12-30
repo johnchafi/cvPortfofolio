@@ -8,7 +8,7 @@ import M from "materialize-css/dist/js/materialize.min.js";
 export default class Navbar extends Component {
   componentDidMount() {
     var elem = document.querySelector(".sidenav");
-    var element = M.Sidenav.init(elem, {
+     M.Sidenav.init(elem, {
       edge: "left",
       inDuration: 250,
     });

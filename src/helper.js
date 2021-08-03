@@ -17,7 +17,7 @@ export function downloadCv(e) {
         });
 
         // Generate file download directly in the browser !
-        saveAs(file, "mypdffilename.pdf");
+        saveAs(file, "jeanCV.pdf");
     };
      oReq.send();
 }

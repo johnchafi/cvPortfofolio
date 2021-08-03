@@ -13,7 +13,7 @@ export default class About extends Component {
               <strong>ABOUT ME</strong>
             </h6>
             <p className="gray-text">
-              Undergraduate in computer science with interest in web and mobile application Development.
+              A graduate in computer science with interest in web and mobile application Development.
               Excellent reputation for problem solving,excellent
               collaboration with teammates and very effective in terms of analysis and autonomy. Proficient
               in Java,c#,C++,JavaScript and Agile/Scrum methodology.

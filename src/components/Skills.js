@@ -15,33 +15,12 @@ export default class Skills extends Component {
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate green"
-                    style={{ width: "100%" }}
+                    style={{ width: "80%" }}
                   ></div>
                 </div>
               </div>
               <div className="col s6">
                 <p>C#</p>
-                <div className="progress grey lighten-1">
-                  <div
-                    className="determinate green"
-                    style={{ width: "100%" }}
-                  ></div>
-                </div>
-              </div>
-            </div>
-
-            <div className="row mt-top">
-              <div className="col s6">
-                <p>JavaScript</p>
-                <div className="progress grey lighten-1">
-                  <div
-                    className="determinate green"
-                    style={{ width: "100%" }}
-                  ></div>
-                </div>
-              </div>
-              <div className="col s6">
-                <p>C++</p>
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate green"
@@ -53,11 +32,32 @@ export default class Skills extends Component {
 
             <div className="row mt-top">
               <div className="col s6">
+                <p>JavaScript</p>
+                <div className="progress grey lighten-1">
+                  <div
+                    className="determinate green"
+                    style={{ width: "80%" }}
+                  ></div>
+                </div>
+              </div>
+              <div className="col s6">
+                <p>C++</p>
+                <div className="progress grey lighten-1">
+                  <div
+                    className="determinate green"
+                    style={{ width: "70%" }}
+                  ></div>
+                </div>
+              </div>
+            </div>
+
+            <div className="row mt-top">
+              <div className="col s6">
                 <p>MVC</p>
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate green"
-                    style={{ width: "100%" }}
+                    style={{ width: "90%" }}
                   ></div>
                 </div>
               </div>
@@ -87,7 +87,7 @@ export default class Skills extends Component {
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate green"
-                    style={{ width: "80%" }}
+                    style={{ width: "70%" }}
                   ></div>
                 </div>
               </div>
@@ -124,11 +124,11 @@ export default class Skills extends Component {
                   </div>
                 </div>
                 <div className="col s6">
-                  <p>Prologue</p>
+                  <p>Scala</p>
                   <div className="progress grey lighten-1">
                     <div
                       className="determinate yellow"
-                      style={{ width: "60%" }}
+                      style={{ width: "70%" }}
                     ></div>
                   </div>
                 </div>
@@ -140,7 +140,7 @@ export default class Skills extends Component {
                   <div className="progress grey lighten-1">
                     <div
                       className="determinate green"
-                      style={{ width: "100%" }}
+                      style={{ width: "90%" }}
                     ></div>
                   </div>
                 </div>

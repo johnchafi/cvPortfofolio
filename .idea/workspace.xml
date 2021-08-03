@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd158a22-b130-4a7c-8e17-08f929752c1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/popularFilm.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.3c99501c.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.3c99501c.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.063599f2.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.063599f2.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.063599f2.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.5318ae6b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.5318ae6b.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!johnchafi!cvPortfolio.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!johnchafi!cvPortfolio.git" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Portofolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Portofolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Education.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Education.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experience.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/helper.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +97,26 @@
       <workItem from="1609307397931" duration="265000" />
       <workItem from="1609307745835" duration="17000" />
       <workItem from="1609307804299" duration="90000" />
-      <workItem from="1609307911867" duration="4030000" />
+      <workItem from="1609307911867" duration="4429000" />
+      <workItem from="1609454257103" duration="431000" />
+      <workItem from="1609981678660" duration="50000" />
+      <workItem from="1609983161353" duration="113000" />
+      <workItem from="1610063148165" duration="111000" />
+      <workItem from="1610063262923" duration="1000" />
+      <workItem from="1610063598165" duration="560000" />
+      <workItem from="1610064794509" duration="154000" />
+      <workItem from="1610074360039" duration="695000" />
+      <workItem from="1610086279339" duration="284000" />
+      <workItem from="1610133013564" duration="745000" />
+      <workItem from="1610228685056" duration="752000" />
+      <workItem from="1610234815469" duration="598000" />
+      <workItem from="1610244285518" duration="12000" />
+      <workItem from="1610244718909" duration="21000" />
+      <workItem from="1614972981990" duration="619000" />
+      <workItem from="1627950800494" duration="98000" />
+      <workItem from="1627951346578" duration="102000" />
+      <workItem from="1627951732208" duration="247000" />
+      <workItem from="1627952166568" duration="1657000" />
     </task>
     <servers />
   </component>

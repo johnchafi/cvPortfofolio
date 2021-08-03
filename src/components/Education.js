@@ -21,8 +21,8 @@ export default class Education extends Component {
               <tbody>
                 <tr>
                   <td>Université Laval</td>
-                  <td>Sep 2017</td>
-                  <td>Avril 2021</td>
+                  <td>Aug 2017</td>
+                  <td>Aug 2021</td>
                   <td>
                     Bachelor of Science: Computer science
                   </td>

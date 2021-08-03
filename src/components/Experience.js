@@ -12,6 +12,29 @@ export default class Experience extends Component{
             <div className="row mt-top">
               <div className="col xl4 l4 m6 s12">
                 <p className="light-blue darken-4 year_exp white-text">
+                  Krispii inc
+                </p>
+                <p className="light-blue darken-4 year_exp white-text">
+                  &nbsp;
+                  <strong>2021-present</strong>
+                </p>
+              </div>
+              <div className="col xl8 l8 m6 s12">
+                <blockquote className="no-pad">
+                  <h6 className="no-pad mt-bottom">
+                    <strong>Full stack developer</strong>
+                  </h6>
+                  <p>
+                    Implement new functionnalities in web app,
+                    Dockerlize the app,
+                    Work on backend and frontend
+
+                    <br></br>
+                  </p>
+                </blockquote>
+              </div>
+              <div className="col xl4 l4 m6 s12">
+                <p className="light-blue darken-4 year_exp white-text">
                   Leonard inc - Intern
                 </p>
                 <p className="light-blue darken-4 year_exp white-text">
